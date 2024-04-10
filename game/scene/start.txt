@@ -1,2 +1,0 @@
-intro:请选择配音版本 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
-choose:中配:cn.txt|日配:1.txt;

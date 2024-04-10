@@ -1,14 +1,14 @@
 bgm:s_Title.mp3 -volume=20;
 changeBg:法律价值.png;
-changeFigure:mygo_avemujica_v5/anon/037_school_summer-2023_rip/model.json -right -next -motion=bye01;
+changeFigure:037_school_summer-2023_rip/model.json -right -next -motion=bye01;
 :大家好！ -大家好！.wav -fontSize=default -right;
-changeFigure:mygo_avemujica_v5/anon/037_school_summer-2023_rip/model.json -right -next -motion=wink01 -expression=kandou01;
+changeFigure:037_school_summer-2023_rip/model.json -right -next -motion=wink01 -expression=kandou01;
 :我是接下来要为大家讲解《法理学进阶》中《法律价值总论》章节的可可酱！ -我是接下来要为大家讲解《法理学进阶》中《法律价值总论》章节的可可酱！.wav -fontSize=default -right;
-changeFigure:mygo_avemujica_v5/anon/037_school_summer-2023_rip/model.json -right -next -motion=kandou01;
+changeFigure:037_school_summer-2023_rip/model.json -right -next -motion=kandou01;
 :首先，我计划将本章节分为四个部分来讲。 -首先，我计划将本章节分为四个部分来讲。.wav -fontSize=default -right;
 changeBg:四个.png -next;
 unlockCg:四个.png;
-changeFigure:mygo_avemujica_v5/anon/037_school_summer-2023_rip/model.json -right -next -motion=nf_left01;
+changeFigure:037_school_summer-2023_rip/model.json -right -next -motion=nf_left01;
 :其一：价值释义； 其二：法律价值； 其三：法律价值体系； 其四：法律价值冲突 -其一：价值释义； 其二：法律价值； 其三：法律价值体系； 其四：法律价值冲突.wav -fontSize=large -right;
 changeBg:价值范畴1.png -next;
 unlockCg:价值范畴1.png;

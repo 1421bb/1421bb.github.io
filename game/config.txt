@@ -1,0 +1,8 @@
+Game_name:keming;
+Game_key:157ad89aab57c53;
+Title_img:法律价值.png - WPS Office 2024_4_6 20_06_05.png=true;
+Title_bgm:s_Title.mp3;
+Game_Logo:法律价值.png - WPS Office 2024_4_6 20_06_05.png=true;
+Textbox_theme:standard;
+Package_name:keming.bb;
+Description:本二郑可鸣;
